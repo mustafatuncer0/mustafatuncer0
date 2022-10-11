@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <details>
 <summary><strong>Details</strong></summary>
--   [Architecture](#architecture)
+-   [Architecture](#Important)
     -   [Entities within a stock management system](#entities-within-a-stock-management-system)
 -   [Architecture](#architecture)
 -   [Prerequisites](#prerequisites)
