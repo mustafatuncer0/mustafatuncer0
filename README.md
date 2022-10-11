@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><strong>Details</strong></summary>
 
--   [Start Up](#download)
+-   [Download](#download)
 
 
 </details>
